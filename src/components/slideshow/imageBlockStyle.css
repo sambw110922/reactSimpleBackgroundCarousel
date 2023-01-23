@@ -1,0 +1,25 @@
+
+.imageBlockText {
+    text-align: center;
+    padding: 2%;
+}
+
+#imageBlock {
+    display: block;
+    height: 400px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.meeting {
+    background-image: url("http://localhost:3001/images/business_meeting_1_089photoshootings_pixabay.png");
+}
+
+.handshake {
+    background-image: url("http://localhost:3001/images/handshake_tumisu_pixabay.png");
+}
+
+.working {
+    background-image: url("http://localhost:3001/images/working_1_startupstockphotos_pixabay.png");
+}

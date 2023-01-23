@@ -1,0 +1,16 @@
+
+nav {
+    background-color: #558afc;
+    padding: 5%;
+}
+
+nav a {
+    color: black;
+    font-family: "Verdana", "sans-serif";
+    font-size: 18px;
+
+}
+
+nav a:hover {
+    text-decoration: none;
+}
